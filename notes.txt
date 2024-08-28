@@ -1,0 +1,9 @@
+1. Change Directory: cd <your project directory>
+2. Initialize git: git init
+3. Verify .git directory is created: ls -a
+4. Get the status as necessary: git status
+5. Add files to staging area: git add <filename>
+6. Remove from staging area: git rm --cached <filename>
+7. Commit changes: git commit -m "commit message"
+8. View events: git log
+
